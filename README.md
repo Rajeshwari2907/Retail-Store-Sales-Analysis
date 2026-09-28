@@ -28,10 +28,14 @@ The dashboard provides an interactive view of sales, profit, customers, products
 ## 👩‍💻 Project
 Retail Store Sales Analysis — Power BI Portfolio Project
 
+<img width="6150" height="3525" alt="Retail Store Sales Analysis_page-0001" src="https://github.com/user-attachments/assets/74a3cebc-1694-4448-a63c-1cb88b7c2481" />
 
-<img width="6150" height="3525" alt="Retail Store Sales Analysis_page-0003" src="https://github.com/user-attachments/assets/c1e12b79-89a0-4b6c-a7d4-8230703e069a" />
-<img width="6150" height="3525" alt="Retail Store Sales Analysis_page-0004" src="https://github.com/user-attachments/assets/745461d4-a7b1-476e-910e-e3c3577c1f97" />
-<img width="6150" height="3525" alt="Retail Store Sales Analysis_page-0001" src="https://github.com/user-attachments/assets/ebd14841-7b67-4e7e-a45d-6b1484f353d4" />
+<img width="6150" height="3525" alt="Retail Store Sales Analysis_page-0002" src="https://github.com/user-attachments/assets/86b85af1-5b4c-4e1c-8017-5f36b55d0202" />
+
+<img width="6150" height="3525" alt="Retail Store Sales Analysis_page-0003" src="https://github.com/user-attachments/assets/87582536-cf8a-408d-a89e-53b67bb94d2e" />
+
+<img width="6150" height="3525" alt="Retail Store Sales Analysis_page-0004" src="https://github.com/user-attachments/assets/592d7a83-5d43-420e-a2fd-668cedd9a126" />
+
 
 
 
