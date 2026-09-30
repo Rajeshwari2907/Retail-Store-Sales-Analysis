@@ -162,6 +162,6 @@ Retail-Store-Sales-Analysis/
 ## Contact
 
 **Rajeshwari M J**
-LinkedIn: `[your link]` | Email: `[your email]`
+LinkedIn: `[http://linkedin.com/in/rajeshwari-m]` | Email: `[rajeshwari.m.j29@gmail.com]`
 
 ⭐ If you found this project useful, consider giving it a star.
